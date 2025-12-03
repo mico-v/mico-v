@@ -210,5 +210,5 @@
 </p>
 
 <p align="center">
-  <i>⭐️ From [[YOUR_USERNAME]](https://github.com/[YOUR_USERNAME])</i>
+  <i>⭐️ From [YOUR_USERNAME] (https://github.com/[YOUR_USERNAME])</i>
 </p>
