@@ -5,7 +5,7 @@ This guide will help you customize your GitHub profile README to make it truly y
 ## 🎯 Quick Start
 
 1. Replace all text in square brackets `[...]` with your own information
-2. Update the username `mico-v` to your GitHub username in all URLs
+2. Replace `[YOUR_USERNAME]` with your GitHub username in all URLs
 3. Remove sections you don't need
 4. Add your actual social media links
 
@@ -37,7 +37,7 @@ This guide will help you customize your GitHub profile README to make it truly y
 - Organize them in categories that make sense for you (Frontend, Backend, DevOps, etc.)
 
 ### GitHub Stats
-- Replace `mico-v` with your GitHub username in all stats URLs
+- Replace `[YOUR_USERNAME]` with your GitHub username in all stats URLs
 - You can customize the theme by changing `theme=radical` to other available themes:
   - `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, etc.
   - See all themes at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
@@ -58,7 +58,7 @@ This guide will help you customize your GitHub profile README to make it truly y
 - Check off completed goals with `[x]`
 
 ### Activity Graph
-- Replace `mico-v` with your GitHub username
+- Replace `[YOUR_USERNAME]` with your GitHub username
 - This shows your contribution activity over time
 
 ## 🎨 Customization Tips
