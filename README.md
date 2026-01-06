@@ -116,23 +116,18 @@
 </p>
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mico-v&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mico-v&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mico-v&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/mico-v/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/mico-v/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 </p>
 
 ---
--->
+
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -140,6 +135,7 @@
 </p>
 
 ---
+-->
 <!--
 ## 📝 Latest Blog Posts
 -->
@@ -183,7 +179,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mico-v&theme=radical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mico-v&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
