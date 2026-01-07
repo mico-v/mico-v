@@ -125,6 +125,11 @@
   <img src="https://raw.githubusercontent.com/mico-v/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mico-v/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/mico-v/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages" />
+</p>
 ---
 
 <!--
