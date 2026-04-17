@@ -28,11 +28,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mico-v&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
-
+-->
 
 <p align="center">
   💖 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat.
